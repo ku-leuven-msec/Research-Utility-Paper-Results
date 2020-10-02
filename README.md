@@ -27,7 +27,7 @@ node name - highest score - lowest score - total generalization level - number o
 
 The **OptimizedStatistics** folder contains two files for each generated anonymous dataset. 
 
-\<samplingrate\>-rau-detailled.csv contains the RAU (Resource Allocation Utility) values, the complete solution and the total cost for each individual sample. 
+\<samplingrate\>-detailled.csv contains the total cost for each individual sample and the complete solution. 
 
 \<samplingrate\>-rau.csv contains an overview of the average RAU values.
 
